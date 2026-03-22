@@ -7,4 +7,4 @@ The problem I solve: I automate the evaluation of unstructured text and user pro
 
 Technical implementation: Utilizing zero-shot classification (NLP) and ablation studies, the AI autonomously extracts and weighs the strongest success factors from raw text data.
 
-Your ROI: Massive time savings in data pre-screening, a sharp reduction in human error, and the instant identification of risk cases or high-performance profiles.
+Your ROI: Massive time savings in data pre-screening, a sharp reduction in human error, and the identification of risk cases or high-performance profiles.
